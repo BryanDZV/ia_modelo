@@ -10,6 +10,9 @@
 3. Activar el entorno virtual.
 4. Ejecutar:
 pip install -r requirements.txt
+5. pip install ipykernel
+python -m ipykernel install --user --name=venv_musica --display-name "Python (venv_musica)"
+
 
 Ejecutar:**
 
