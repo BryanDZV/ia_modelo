@@ -13,5 +13,3 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Datos grandes (sube solo un ejemplo si quieres compartir)
-datos/*.csv
-resultados/
